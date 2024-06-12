@@ -1,4 +1,4 @@
-# DPG_tutorial_2024
+# DPG Spring Meeting Tutorial: Creating and running automated workflows for materials science simulations 
 
 See abstract [here](https://www.dpg-verhandlungen.de/year/2024/conference/berlin/part/tut/session/1/contribution/1).
 
