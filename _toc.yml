@@ -1,0 +1,7 @@
+format: jb-book
+root: README
+chapters:
+- file: 01_workflows/tutorial.ipynb
+- file: 02_introduction_to_pyiron/tutorial.ipynb
+- file: 03_fitting_and_validation/tutorial.ipynb
+- file: 04_phase_diagram/tutorial.ipynb
